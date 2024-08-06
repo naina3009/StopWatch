@@ -3,7 +3,7 @@ import StopWatch from './screen/stop-watch/StopWatch';
 
 function App() {
   return (
-  <StopWatch/>
+    <StopWatch/>
   );
 }
 
